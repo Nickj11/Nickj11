@@ -6,7 +6,7 @@
   -[Pokemon API](https://github.com/Nickj11/pokemon-api-flask)
   - <b>osTicket (Help Desk Ticketing System)</b>
   - -[osTicket: Prerequisites and Installation](https://github.com/Nickj11/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Nickj11/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Nickj11/osTicketPostConfiguration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nickj11/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Nickj11/configure-ad)

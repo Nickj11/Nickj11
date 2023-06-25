@@ -10,7 +10,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nickj11/osTicket-LifeCycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Nickj11/Configuring-On-premises-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nickj11/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nickj11/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   -  [Network File Shares and Permissions](https://github.com/Nickj11/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/Nickj11/Building-Intuition-for-DNS)
 

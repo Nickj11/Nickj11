@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  -[Porfolio Website] ()
   -[PopCulture/Spotify API](https://github.com/Nickj11/superhero-api)
   -[Pokemon API](https://github.com/Nickj11/pokemon-api-flask)
   - <b>osTicket (Help Desk Ticketing System)</b>
-  [osTicket: Prerequisites and Installation](https://github.com/Nickj11/osticket-prereqs)
+  - -[osTicket: Prerequisites and Installation](https://github.com/Nickj11/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Nickj11/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nickj11/ticket-lifecycle)
 - <b>Microsoft Azure</b>

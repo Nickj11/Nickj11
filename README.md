@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-  -[PopCulture/Spotify API](https://github.com/Nickj11/superhero-api)
-  -[Pokemon API](https://github.com/Nickj11/pokemon-api-flask)
+- (https://github.com/Nickj11/pokemon-api-flask)
   - <b>osTicket (Help Desk Ticketing System)</b>
   - -[osTicket: Prerequisites and Installation](https://github.com/Nickj11/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Nickj11/osTicketPostConfiguration)

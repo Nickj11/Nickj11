@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- (https://github.com/Nickj11/pokemon-api-flask)
   - <b>osTicket (Help Desk Ticketing System)</b>
   - -[osTicket: Prerequisites and Installation](https://github.com/Nickj11/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Nickj11/osTicketPostConfiguration)
